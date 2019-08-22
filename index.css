@@ -2,7 +2,8 @@ body{
     font-size: 16px;
 }
 body{
-    margin: 10px 20px 0 20px;
+    margin: 0;
+    padding: 10px 20px 0 20px;
 }
 table{
     width:100%;
@@ -30,4 +31,8 @@ button{
     width:100px;
     height: 30px;
     margin: 0;
+}
+label{
+    color:green;
+    float: left;
 }
