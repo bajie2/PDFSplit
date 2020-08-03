@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdf-lib": "1.0.1"
+    "pdf-lib": "^1.0.1"
   },
   "devDependencies": {
     "electron": "6.0.2"
